@@ -1,6 +1,6 @@
-﻿namespace StarWarsTheFightingGame;
-
-public class Anakin
+﻿public class Anakin
 {
+  public string name = "Anakin Skywalker"; 
+  public string Weaponsname = "Blue Lightsaber";
 
 }

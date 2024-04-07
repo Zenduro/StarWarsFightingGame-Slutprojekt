@@ -1,6 +1,6 @@
-﻿namespace StarWarsTheFightingGame;
-
-public class DarthMaul
+﻿public class DarthMaul
 {
+  public string name = "Darth Maul"; 
+  public string Weaponsname = "Red Double Bladed Lightsaber";
 
 }

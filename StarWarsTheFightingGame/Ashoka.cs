@@ -1,6 +1,6 @@
-﻿namespace StarWarsTheFightingGame;
-
-public class Ashoka
+﻿public class Ashoka
 {
+  public string name = "Ashoka Tano"; 
+  public string Weaponsname = "White double Lightsaber";
 
 }
