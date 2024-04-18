@@ -1,0 +1,14 @@
+C:\Users\elias.kylymiesbucht\Desktop\Prr\PRR2\StarWarsFightingGame\StarWarsTheFightingGame\bin\Debug\net7.0\StarWarsTheFightingGame.exe
+C:\Users\elias.kylymiesbucht\Desktop\Prr\PRR2\StarWarsFightingGame\StarWarsTheFightingGame\bin\Debug\net7.0\StarWarsTheFightingGame.deps.json
+C:\Users\elias.kylymiesbucht\Desktop\Prr\PRR2\StarWarsFightingGame\StarWarsTheFightingGame\bin\Debug\net7.0\StarWarsTheFightingGame.runtimeconfig.json
+C:\Users\elias.kylymiesbucht\Desktop\Prr\PRR2\StarWarsFightingGame\StarWarsTheFightingGame\bin\Debug\net7.0\StarWarsTheFightingGame.dll
+C:\Users\elias.kylymiesbucht\Desktop\Prr\PRR2\StarWarsFightingGame\StarWarsTheFightingGame\bin\Debug\net7.0\StarWarsTheFightingGame.pdb
+C:\Users\elias.kylymiesbucht\Desktop\Prr\PRR2\StarWarsFightingGame\StarWarsTheFightingGame\obj\Debug\net7.0\StarWarsTheFightingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias.kylymiesbucht\Desktop\Prr\PRR2\StarWarsFightingGame\StarWarsTheFightingGame\obj\Debug\net7.0\StarWarsTheFightingGame.AssemblyInfoInputs.cache
+C:\Users\elias.kylymiesbucht\Desktop\Prr\PRR2\StarWarsFightingGame\StarWarsTheFightingGame\obj\Debug\net7.0\StarWarsTheFightingGame.AssemblyInfo.cs
+C:\Users\elias.kylymiesbucht\Desktop\Prr\PRR2\StarWarsFightingGame\StarWarsTheFightingGame\obj\Debug\net7.0\StarWarsTheFightingGame.csproj.CoreCompileInputs.cache
+C:\Users\elias.kylymiesbucht\Desktop\Prr\PRR2\StarWarsFightingGame\StarWarsTheFightingGame\obj\Debug\net7.0\StarWarsTheFightingGame.dll
+C:\Users\elias.kylymiesbucht\Desktop\Prr\PRR2\StarWarsFightingGame\StarWarsTheFightingGame\obj\Debug\net7.0\refint\StarWarsTheFightingGame.dll
+C:\Users\elias.kylymiesbucht\Desktop\Prr\PRR2\StarWarsFightingGame\StarWarsTheFightingGame\obj\Debug\net7.0\StarWarsTheFightingGame.pdb
+C:\Users\elias.kylymiesbucht\Desktop\Prr\PRR2\StarWarsFightingGame\StarWarsTheFightingGame\obj\Debug\net7.0\StarWarsTheFightingGame.genruntimeconfig.cache
+C:\Users\elias.kylymiesbucht\Desktop\Prr\PRR2\StarWarsFightingGame\StarWarsTheFightingGame\obj\Debug\net7.0\ref\StarWarsTheFightingGame.dll

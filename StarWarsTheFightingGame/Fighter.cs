@@ -76,6 +76,13 @@ public class Fighter
         fighter.WeaponsName = AK.Weaponsname;
         return fighter;
     }
+     public static implicit operator Fighter(KiatMundi KM)
+    {
+        Fighter fighter = new Fighter();
+        fighter.name = KM.name;
+        fighter.WeaponsName = KM.Weaponsname;
+        return fighter;
+    }
 }
 
 
