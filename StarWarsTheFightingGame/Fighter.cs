@@ -6,13 +6,16 @@ public class Fighter
     public string name;
     public string WeaponsName;
 
-    public void Attack(Fighter target)
+    public void Attack(Fighter target) // Attack metod
     {
-        Random generator = new Random();
-        int damage = generator.Next(8500, 16195); 
-        target.hp = Math.Max(0, target.hp);
-        target.hp -= damage;
-        Console.WriteLine($"{name} did {damage} to {target.name}");
+        if (WeaponsName == "Lightsaber") // if sats, den kollar att weaponsname är exakt lightsaber. Om det är sant gör den en ny objekt av lightsaber.
+        {
+            new Lightsaber().DealDamage(target); // Det gör en ny objekt av lightsaber 
+        }
+        else
+        {
+            Console.WriteLine($"{name} attacks {target.name}."); // Skriver ut namn och som attackerar target, min gubbe och fienden
+        }
     }
 
     public static implicit operator Fighter(MaceWindu M) /*M används för att initiera motsvarande egenskaper för Fighter-objektet*/

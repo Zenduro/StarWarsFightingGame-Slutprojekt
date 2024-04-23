@@ -10,13 +10,13 @@ public class Weapons
 
     public Weapons()
     {
-        generator = new Random();
+        generator = new Random(); //Skapar en slumpmässig numerisk värde
     }
 
-    /*Metod för att få Damage*/
+    /*Metod för att få Damage mellan 8000-16000*/
     public int GetDamage()
     {
-        return generator.Next(minDamage, maxDamage);
+        return generator.Next(minDamage, maxDamage); 
     }
 }
 
